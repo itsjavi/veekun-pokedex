@@ -5,8 +5,8 @@
 
 *.egg-info
 
-pokedex.sqlite
-pokedex.sqlite-journal
+*.sqlite
+*.sqlite-journal
 whoosh-index
 pip-selfcheck.json
 
